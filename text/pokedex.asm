@@ -508,6 +508,16 @@ _MagmarDexEntry::
 	next "among flames"
 	dex
 
+_CrobatDexEntry::
+	text "Its body always"
+	next "burns with an"
+	next "orange glow that"
+
+	page "enables it to"
+	next "hide perfectly"
+	next "among flames"
+	dex
+
 _ElectabuzzDexEntry::
 	text "Normally found"
 	next "near power plants,"
@@ -529,6 +539,16 @@ _MagnetonDexEntry::
 	dex
 
 _KoffingDexEntry::
+	text "Because it stores"
+	next "several kinds of"
+	next "toxic gases in"
+
+	page "its body, it is"
+	next "prone to exploding"
+	next "without warning"
+	dex
+
+_BellossomDexEntry::
 	text "Because it stores"
 	next "several kinds of"
 	next "toxic gases in"
@@ -578,6 +598,36 @@ _TaurosDexEntry::
 	next "long tails"
 	dex
 
+_SlowkingDexEntry::
+	text "When it targets"
+	next "an enemy, it"
+	next "charges furiously"
+
+	page "while whipping its"
+	next "body with its"
+	next "long tails"
+	dex
+
+_MagnezoneDexEntry::
+	text "When it targets"
+	next "an enemy, it"
+	next "charges furiously"
+
+	page "while whipping its"
+	next "body with its"
+	next "long tails"
+	dex
+
+_SteelixDexEntry::
+	text "When it targets"
+	next "an enemy, it"
+	next "charges furiously"
+
+	page "while whipping its"
+	next "body with its"
+	next "long tails"
+	dex
+
 _FarfetchdDexEntry::
 	text "The sprig of"
 	next "green onions it"
@@ -599,6 +649,36 @@ _VenonatDexEntry::
 	dex
 
 _DragoniteDexEntry::
+	text "An extremely"
+	next "rarely seen"
+	next "marine #MON."
+
+	page "Its intelligence"
+	next "is said to match"
+	next "that of humans"
+	dex
+
+_TyrogueDexEntry::
+	text "An extremely"
+	next "rarely seen"
+	next "marine #MON."
+
+	page "Its intelligence"
+	next "is said to match"
+	next "that of humans"
+	dex
+
+_HitmontopDexEntry::
+	text "An extremely"
+	next "rarely seen"
+	next "marine #MON."
+
+	page "Its intelligence"
+	next "is said to match"
+	next "that of humans"
+	dex
+
+_LickilickyDexEntry::
 	text "An extremely"
 	next "rarely seen"
 	next "marine #MON."
@@ -698,6 +778,36 @@ _KrabbyDexEntry::
 	next "sideways"
 	dex
 
+_RhyperiorDexEntry::
+	text "Its pincers are"
+	next "not only powerful"
+	next "weapons, they are"
+
+	page "used for balance"
+	next "when walking"
+	next "sideways"
+	dex
+
+_HappinyDexEntry::
+	text "Its pincers are"
+	next "not only powerful"
+	next "weapons, they are"
+
+	page "used for balance"
+	next "when walking"
+	next "sideways"
+	dex
+
+_BlisseyDexEntry::
+	text "Its pincers are"
+	next "not only powerful"
+	next "weapons, they are"
+
+	page "used for balance"
+	next "when walking"
+	next "sideways"
+	dex
+
 _VulpixDexEntry::
 	text "At the time of"
 	next "birth, it has"
@@ -729,6 +839,26 @@ _PikachuDexEntry::
 	dex
 
 _RaichuDexEntry::
+	text "Its long tail"
+	next "serves as a"
+	next "ground to protect"
+
+	page "itself from its"
+	next "own high voltage"
+	next "power"
+	dex
+
+_TangrowthDexEntry::
+	text "Its long tail"
+	next "serves as a"
+	next "ground to protect"
+
+	page "itself from its"
+	next "own high voltage"
+	next "power"
+	dex
+
+_KingdraDexEntry::
 	text "Its long tail"
 	next "serves as a"
 	next "ground to protect"
@@ -789,6 +919,26 @@ _HorseaDexEntry::
 	dex
 
 _SeadraDexEntry::
+	text "Capable of swim-"
+	next "ming backwards by"
+	next "rapidly flapping"
+
+	page "its wing-like"
+	next "pectoral fins and"
+	next "stout tail"
+	dex
+
+_MimeJrDexEntry::
+	text "Capable of swim-"
+	next "ming backwards by"
+	next "rapidly flapping"
+
+	page "its wing-like"
+	next "pectoral fins and"
+	next "stout tail"
+	dex
+
+_ScizorDexEntry::
 	text "Capable of swim-"
 	next "ming backwards by"
 	next "rapidly flapping"
@@ -987,6 +1137,16 @@ _BeedrillDexEntry::
 	next "on its forelegs"
 	next "and tail"
 	dex
+	
+_SmoochumDexEntry::
+	text "Flies at high"
+	next "speed and attacks"
+	next "using its large"
+
+	page "venomous stingers"
+	next "on its forelegs"
+	next "and tail"
+	dex
 
 _DodrioDexEntry::
 	text "Uses its three"
@@ -1038,6 +1198,26 @@ _DewgongDexEntry::
 	next "cold waters"
 	dex
 
+_ElekidDexEntry::
+	text "Stores thermal"
+	next "energy in its"
+	next "body. Swims at a"
+
+	page "steady 8 knots"
+	next "even in intensely"
+	next "cold waters"
+	dex
+
+_ElectivireDexEntry::
+	text "Stores thermal"
+	next "energy in its"
+	next "body. Swims at a"
+
+	page "steady 8 knots"
+	next "even in intensely"
+	next "cold waters"
+	dex
+
 _CaterpieDexEntry::
 	text "Its short feet"
 	next "are tipped with"
@@ -1069,6 +1249,16 @@ _ButterfreeDexEntry::
 	dex
 
 _MachampDexEntry::
+	text "Using its heavy"
+	next "muscles, it throws"
+	next "powerful punches"
+
+	page "that can send the"
+	next "victim clear over"
+	next "the horizon"
+	dex
+
+_MagbyDexEntry::
 	text "Using its heavy"
 	next "muscles, it throws"
 	next "powerful punches"
@@ -1138,7 +1328,37 @@ _MagikarpDexEntry::
 	next "that exist today"
 	dex
 
+_MagmortarDexEntry::
+	text "In the distant"
+	next "past, it was"
+	next "somewhat stronger"
+
+	page "than the horribly"
+	next "weak descendants"
+	next "that exist today"
+	dex
+
+_UmbreonDexEntry::
+	text "In the distant"
+	next "past, it was"
+	next "somewhat stronger"
+
+	page "than the horribly"
+	next "weak descendants"
+	next "that exist today"
+	dex
+
 _MukDexEntry::
+	text "Thickly covered"
+	next "with a filthy,"
+	next "vile sludge. It"
+
+	page "is so toxic, even"
+	next "its footprints"
+	next "contain poison"
+	dex
+
+_EspeonDexEntry::
 	text "Thickly covered"
 	next "with a filthy,"
 	next "vile sludge. It"
@@ -1159,6 +1379,16 @@ _KinglerDexEntry::
 	dex
 
 _CloysterDexEntry::
+	text "When attacked, it"
+	next "launches its"
+	next "horns in quick"
+
+	page "volleys. Its"
+	next "innards have"
+	next "never been seen"
+	dex
+
+_LeafeonDexEntry::
 	text "When attacked, it"
 	next "launches its"
 	next "horns in quick"
@@ -1209,6 +1439,16 @@ _PersianDexEntry::
 	dex
 
 _MarowakDexEntry::
+	text "The bone it holds"
+	next "is its key weapon."
+	next "It throws the"
+
+	page "bone skillfully"
+	next "like a boomerang"
+	next "to KO targets"
+	dex
+
+_GlaceonDexEntry::
 	text "The bone it holds"
 	next "is its key weapon."
 	next "It throws the"
@@ -1308,6 +1548,16 @@ _TentacruelDexEntry::
 	next "immobilize prey"
 	dex
 
+_SylveonDexEntry::
+	text "The tentacles are"
+	next "normally kept"
+	next "short. On hunts,"
+
+	page "they are extended"
+	next "to ensnare and"
+	next "immobilize prey"
+	dex
+
 _GoldeenDexEntry::
 	text "Its tail fin"
 	next "billows like an"
@@ -1319,6 +1569,46 @@ _GoldeenDexEntry::
 	dex
 
 _SeakingDexEntry::
+	text "In the autumn"
+	next "spawning season,"
+	next "they can be seen"
+
+	page "swimming power-"
+	next "fully up rivers"
+	next "and creeks"
+	dex
+
+_Porygon2DexEntry::
+	text "In the autumn"
+	next "spawning season,"
+	next "they can be seen"
+
+	page "swimming power-"
+	next "fully up rivers"
+	next "and creeks"
+	dex
+
+_PorygonZDexEntry::
+	text "In the autumn"
+	next "spawning season,"
+	next "they can be seen"
+
+	page "swimming power-"
+	next "fully up rivers"
+	next "and creeks"
+	dex
+
+_MunchlaxDexEntry::
+	text "In the autumn"
+	next "spawning season,"
+	next "they can be seen"
+
+	page "swimming power-"
+	next "fully up rivers"
+	next "and creeks"
+	dex
+
+_PolitoedDexEntry::
 	text "In the autumn"
 	next "spawning season,"
 	next "they can be seen"
