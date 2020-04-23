@@ -416,7 +416,7 @@ CleffaDexEntry:
 	db "STAR SHAPE@"
 	db 1,0
 	dw 70
-	TX_FAR _TangelaDexEntry
+	TX_FAR _CleffaDexEntry
 	db "@"
 
 GrowlitheDexEntry:
