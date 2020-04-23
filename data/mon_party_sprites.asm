@@ -74,4 +74,20 @@ MonPartyData:
 	dn SPRITE_BIRD_M, SPRITE_BIRD_M         ;Zapdos/Moltres
 	dn SPRITE_SNAKE, SPRITE_SNAKE           ;Dratini/Dragonair
 	dn SPRITE_SNAKE, SPRITE_MON             ;Dragonite/Mewtwo
-	dn SPRITE_MON, 0                        ;Mew/Padding
+	dn SPRITE_MON, SPRITE_FAIRY             ;Mew/Pichu
+	dn SPRITE_FAIRY, SPRITE_FAIRY           ;Cleffa/Igglybuff
+	dn SPRITE_MON, SPRITE_GRASS             ;Crobat/Bellossom
+	dn SPRITE_MON, SPRITE_BALL_M            ;Slowking/Magnezone
+	dn SPRITE_SNAKE, SPRITE_MON             ;Steelix/Tyrogue
+	dn SPRITE_MON, SPRITE_MON               ;Hitmontop/Lickilicky
+	dn SPRITE_MON, SPRITE_FAIRY             ;Rhyperior/Happiny
+	dn SPRITE_FAIRY, SPRITE_GRASS           ;Blissey/Tangrowth
+	dn SPRITE_WATER, SPRITE_FAIRY           ;Kingra/MimeJr.
+	dn SPRITE_BUG, SPRITE_FAIRY             ;Scizor/Smoochum
+	dn SPRITE_FAIRY, SPRITE_MON             ;Elekid/Electivire
+	dn SPRITE_FAIRY, SPRITE_MON             ;Magby/Magmortar
+	dn SPRITE_QUADRUPED, SPRITE_QUADRUPED   ;Umbreon/Espeon
+	dn SPRITE_QUADRUPED, SPRITE_QUADRUPED   ;Leafeon/Glaceon
+	dn SPRITE_QUADRUPED, SPRITE_MON         ;Sylveon/Porygon2
+	dn SPRITE_MON, SPRITE_FAIRY             ;PorygonZ/Munchlax
+	dn SPRITE_WATER, 0                      ;Politoed/Padding
