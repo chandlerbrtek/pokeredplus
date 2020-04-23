@@ -298,6 +298,26 @@ _TangelaDexEntry::
 	next "shake as it walks"
 	dex
 
+_PichuDexEntry::
+	text "The whole body is"
+	next "swathed with wide"
+	next "vines that are"
+
+	page "similar to sea-"
+	next "weed. Its vines"
+	next "shake as it walks"
+	dex
+
+_CleffaDexEntry::
+	text "The whole body is"
+	next "swathed with wide"
+	next "vines that are"
+
+	page "similar to sea-"
+	next "weed. Its vines"
+	next "shake as it walks"
+	dex
+
 _GrowlitheDexEntry::
 	text "Very protective"
 	next "of its territory."
@@ -459,6 +479,16 @@ _DrowzeeDexEntry::
 	dex
 
 _GolemDexEntry::
+	text "Its boulder-like"
+	next "body is extremely"
+	next "hard. It can"
+
+	page "easily withstand"
+	next "dynamite blasts"
+	next "without damage"
+	dex
+
+_IgglybuffDexEntry::
 	text "Its boulder-like"
 	next "body is extremely"
 	next "hard. It can"
