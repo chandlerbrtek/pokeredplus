@@ -161,7 +161,7 @@ const_value = 1
 	const PORYGON2     ; $9F
 	const PORYGONZ     ; $A0
 	const MUNCHLAX     ; $A1
-	const MISSINGNO_A2 ; $A2
+	const POLITOED     ; $A2
 	const PONYTA       ; $A3
 	const RAPIDASH     ; $A4
 	const RATTATA      ; $A5
