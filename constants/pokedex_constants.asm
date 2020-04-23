@@ -155,7 +155,7 @@ const_value = 1
 	const DEX_CLEFFA     ; 153
 	const DEX_IGGLYBUFF  ; 154
 	const DEX_CROBAT     ; 155
-	const DEX_BELLOSOM   ; 156
+	const DEX_BELLOSSOM   ; 156
 	const DEX_POLITOED   ; 157
 	const DEX_SLOWKING   ; 158
 	const DEX_MAGNEZONE  ; 159
