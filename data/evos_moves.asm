@@ -1242,6 +1242,7 @@ WigglytuffEvosMoves:
 
 EeveeEvosMoves:
 ; Evolutions
+	db EV_ITEM, LEAF_STONE, 1, LEAFEON
 	db EV_ITEM, FIRE_STONE, 1, FLAREON
 	db EV_ITEM, THUNDER_STONE, 1, JOLTEON
 	db EV_ITEM, WATER_STONE, 1, VAPOREON
@@ -1621,10 +1622,17 @@ CloysterEvosMoves:
 	db 0
 
 LeafeonEvosMoves:
-; Evolutions
-	db 0
-; Learnset
-	db 0
+;Evolutions	;Evolutions
+	db 0		db 0
+;Learnset	;Learnset
+	db 7,LEECH_SEED
+	db 13,VINE_WHIP
+	db 22,POISONPOWDER
+	db 30,RAZOR_LEAF
+	db 43,GROWTH
+	db 55,SLEEP_POWDER
+	db 65,SOLARBEAM
+	db 0		db 0
 
 ElectrodeEvosMoves:
 ; Evolutions
