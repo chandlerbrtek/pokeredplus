@@ -82,7 +82,7 @@ MonPartyData:
 	dn SPRITE_MON, SPRITE_MON               ;Hitmontop/Lickilicky
 	dn SPRITE_MON, SPRITE_FAIRY             ;Rhyperior/Happiny
 	dn SPRITE_FAIRY, SPRITE_GRASS           ;Blissey/Tangrowth
-	dn SPRITE_WATER, SPRITE_FAIRY           ;Kingra/MimeJr.
+	dn SPRITE_WATER, SPRITE_FAIRY           ;Kingdra/MimeJr.
 	dn SPRITE_BUG, SPRITE_FAIRY             ;Scizor/Smoochum
 	dn SPRITE_FAIRY, SPRITE_MON             ;Elekid/Electivire
 	dn SPRITE_FAIRY, SPRITE_MON             ;Magby/Magmortar

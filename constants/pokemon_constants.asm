@@ -86,7 +86,7 @@ const_value = 1
 	const PIKACHU      ; $54
 	const RAICHU       ; $55
 	const TANGROWTH    ; $56
-	const KINGRA       ; $57
+	const KINGDRA      ; $57
 	const DRATINI      ; $58
 	const DRAGONAIR    ; $59
 	const KABUTO       ; $5A
