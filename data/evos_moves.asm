@@ -1622,9 +1622,9 @@ CloysterEvosMoves:
 	db 0
 
 LeafeonEvosMoves:
-;Evolutions	;Evolutions
-	db 0		db 0
-;Learnset	;Learnset
+;Evolutions
+	db 0
+;Learnset
 	db 7,LEECH_SEED
 	db 13,VINE_WHIP
 	db 22,POISONPOWDER
@@ -1632,7 +1632,7 @@ LeafeonEvosMoves:
 	db 43,GROWTH
 	db 55,SLEEP_POWDER
 	db 65,SOLARBEAM
-	db 0		db 0
+	db 0
 
 ElectrodeEvosMoves:
 ; Evolutions
