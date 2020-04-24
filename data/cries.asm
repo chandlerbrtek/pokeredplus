@@ -139,7 +139,7 @@ CryData:
 	db $0F, $40, $80; Espeon
 	db $20, $EE, $E0; Kingler
 	db $18, $6F, $E0; Cloyster
-	db $00, $00, $00; Leafeon
+	db $1A, $AA, $FF; Leafeon
 	db $06, $A8, $90; Electrode
 	db $19, $AA, $20; Clefable
 	db $12, $FF, $FF; Weezing
